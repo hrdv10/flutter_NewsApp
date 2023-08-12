@@ -1,18 +1,15 @@
 # flutter News App
-[![Codemagic build status](https://api.codemagic.io/apps/5e93249b1838ac3d3e52a5bc/5e93249b1838ac3d3e52a5bb/status_badge.svg)](https://codemagic.io/apps/5e93249b1838ac3d3e52a5bc/5e93249b1838ac3d3e52a5bb/latest_build)
-[![codecov](https://codecov.io/gh/CoderJava/Flutter-News-App/branch/dev-v2.0.0/graph/badge.svg)](https://codecov.io/gh/CoderJava/Flutter-News-App)
-[![style: effective dart](https://img.shields.io/badge/style-effective_dart-40c4ff.svg)](https://github.com/tenhobi/effective_dart)
-[![License: MIT](https://img.shields.io/badge/license-MIT-purple.svg)](https://opensource.org/licenses/MIT)
 
-![Flutter News App](https://github.com/CoderJava/Flutter-News-App/blob/master/screenshots/social%20media%20preview.png)
+
+
+![Flutter News App](https://github.com/hrdv10/Flutter-News-App/blob/master/screenshots/social%20media%20preview.png)
 
 # Flutter News App
 News App developed with Flutter and API from [News API](https://newsapi.org)
 
-## Versions
-- [v1.0.0](https://github.com/CoderJava/Flutter-News-App/tree/v1.0.0)
-- [v2.0.0](https://github.com/CoderJava/Flutter-News-App/tree/v2.0.0)
-- v3.0.0 under development. You can check the progress [in here](https://trello.com/b/5whQTw74/flutter-news-app-v3)
+## progress stats
+-)
+. You can check the progress [in here](https://trello.com/b/pfJyhtuk/flutternewsapp)
 
 ## Usage
 1. Please open file **constant_config.dart** and change `YOUR API KEY` in the variable `keyNewsApi` with your own.
