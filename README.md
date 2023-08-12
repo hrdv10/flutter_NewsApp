@@ -16,8 +16,7 @@ News App developed with Flutter and API from [News API](https://newsapi.org)
 
 - [X] List daily news.
 - [X] Filter daily news by category.
-- [X] Refresh list daily news with pull to refresh style.
-- [X] Go to detail news website.
+
 - [X] Search news
 
 
