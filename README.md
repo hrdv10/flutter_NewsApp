@@ -2,7 +2,6 @@
 
 
 
-![Flutter News App](https://github.com/hrdv10/Flutter-News-App/blob/master
 
 # Flutter News App
 News App developed with Flutter and API from [News API](https://newsapi.org)
