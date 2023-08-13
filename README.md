@@ -9,7 +9,7 @@ News App developed with Flutter and API from [News API](https://newsapi.org)
 
 ## progress stats
 -)
-. You can check the progress [in here](https://trello.com/b/pfJyhtuk/flutternewsapp)
+.
 
 
 
